@@ -1,1 +1,1 @@
-<img src="desktop.png" alt="drawing" width="960"/>
+<img src="desktop.png" alt="drawing" style="width:960px;height:300px"/>
