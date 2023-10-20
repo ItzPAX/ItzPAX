@@ -1,1 +1,1 @@
-<img src="desktop.png" alt="drawing" style="width:960px;"/>
+<img src="desktop.jpg" alt="rclogo" style="width:960px;"/>
